@@ -28,7 +28,7 @@ Lung cancer often goes undiagnosed until it reaches advanced stages, mainly due 
 - **Libraries/Frameworks**: Tkinter (for GUI), Scikit-learn (for machine learning models), Joblib (for model persistence), NumPy, pandas
 - **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forest, SVM
 - **Image Processing**: Pillow (for UI image integration)
-- **Other Tools**: VS Code/PyCharm (IDE), Jupyter Notebooks (for model testing)
+- **Other Tools**: Jupyter Notebooks 
 
 ## Installation
 
